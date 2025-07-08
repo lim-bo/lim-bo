@@ -10,7 +10,7 @@
 ![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ5b2R0c2NtYzVtN3Z2eWxqZ2V6dW5yY2V6eGJ6dXJ5dGJ6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ## 🚀 About Me
-- 🔭 Currently working on **few personal backend projects**
+- 🔭 Currently working on high-performance microservice/monolith systems, APIs and tools
 - 🌱 Learning **Go**, **multithread programming** and **code optimization**
 - 💡 Passionate about **algorithms** and **architecture**
 - ⚡ Some facts: I love **sport** 🏀 and **videogames** 🎮
@@ -33,3 +33,8 @@
 ![MinIO](https://img.shields.io/badge/-MinIO-222222?style=flat-square&logo=minio&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/-ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
+### Logs, Metrics and Monitoring
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/-Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
