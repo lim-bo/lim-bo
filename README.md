@@ -3,7 +3,6 @@
 [![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&width=435&lines=Backend+Developer)](https://git.io/typing-svg)
 
 ## 🔗 Connect with me
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Limmbbo)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](artemshap66@gmail.com)
 
 
