@@ -1,17 +1,18 @@
 # Hi there, I'm Artyom! 👋
 
-[![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&width=435&lines=Backend+Developer)](https://git.io/typing-svg)
+[![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&width=435&lines=Web+Developer)](https://git.io/typing-svg)
 
 ## 🔗 Connect with me
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](artemshap66@gmail.com)
 
 
-![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ5b2R0c2NtYzVtN3Z2eWxqZ2V6dW5yY2V6eGJ6dXJ5dGJ6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qgQUggAC3Pfv687qPC/giphy.gif)
+![Coding GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHNka3drOXF3NGEyeWNqcmlsaXlubTVmZjRmOXB3MW1xZjVxYmdmcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif)
+
+
 
 ## 🚀 About Me
-- 🔭 Currently working on high-performance microservice/monolith systems, APIs and tools
-- 🌱 Learning **Go**, **multithread programming** and **code optimization**
-- 💡 Passionate about **algorithms** and **architecture**
+- 🔭 Currently working on Web-Apps, APIs and tools
+- 💡 Passionate about **algorithms**, **architecture** and **new technologies**
 - ⚡ Some facts: I love **sport** 🏀 and **videogames** 🎮
 
 ## 🛠 Tech Stack
@@ -19,6 +20,13 @@
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-365dbf.svg?logo=C%2B%2B&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+### Frameworks
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)
 ### Infrastructure, Cloud, SaaS and others
 ![Docker](https://img.shields.io/badge/-Docker-%230db7ed.svg?logo=docker&style=flat&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?logo=nginx&style=flat&logoColor=white)
@@ -31,7 +39,6 @@
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![MinIO](https://img.shields.io/badge/-MinIO-222222?style=flat-square&logo=minio&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/-ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
 ### Logs, Metrics and Monitoring
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Kibana](https://img.shields.io/badge/-Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
