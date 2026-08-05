@@ -18,13 +18,11 @@
 ## 🛠 Tech Stack
 ### Languages & Frameworks
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-365dbf.svg?logo=C%2B%2B&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ### Frameworks
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
-![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)
 ### Infrastructure, Cloud, SaaS and others
